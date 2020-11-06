@@ -12,3 +12,4 @@ Predicting the chances of Graduate Admission from Indian Perspective while consi
 <li>Research (0 or 1)</li>
 </ol>
 </br>The output is the chances of graduate admission ranging from (0.00 to 1.00)
+___
