@@ -10,4 +10,4 @@ Predicting the chances of Graduate Admission from Indian Perspective while consi
 <li>University Rating (1.00 to 5.00)</li>
 <li>Research (0 or 1)</li>
 </ol>
-The output is the chances of graduate admission ranging from (0.00 to 1.00)
+</br>The output is the chances of graduate admission ranging from (0.00 to 1.00)
